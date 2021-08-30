@@ -1,0 +1,7 @@
+D:\Corporate\Vinsys\JK Tech\XML\XMLDemo-Repo\XMLDemo\XMLDemo\bin\Debug\XMLDemo.exe.config
+D:\Corporate\Vinsys\JK Tech\XML\XMLDemo-Repo\XMLDemo\XMLDemo\bin\Debug\XMLDemo.exe
+D:\Corporate\Vinsys\JK Tech\XML\XMLDemo-Repo\XMLDemo\XMLDemo\bin\Debug\XMLDemo.pdb
+D:\Corporate\Vinsys\JK Tech\XML\XMLDemo-Repo\XMLDemo\XMLDemo\obj\Debug\XMLDemo.csprojAssemblyReference.cache
+D:\Corporate\Vinsys\JK Tech\XML\XMLDemo-Repo\XMLDemo\XMLDemo\obj\Debug\XMLDemo.csproj.CoreCompileInputs.cache
+D:\Corporate\Vinsys\JK Tech\XML\XMLDemo-Repo\XMLDemo\XMLDemo\obj\Debug\XMLDemo.exe
+D:\Corporate\Vinsys\JK Tech\XML\XMLDemo-Repo\XMLDemo\XMLDemo\obj\Debug\XMLDemo.pdb
